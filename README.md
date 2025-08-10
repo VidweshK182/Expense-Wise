@@ -4,7 +4,7 @@
 **Expense-Wise** is a full-stack expense tracking app that helps you stay on top of your personal finances.  
 With secure authentication, an intuitive dashboard, and easy transaction tracking, it makes money management simple and accessible.  
 
-🎥 [**Click here to watch the demo**](YOUR_DEMO_LINK_HERE)  
+🎥 [**Click here to watch the demo**](https://drive.google.com/file/d/1QLF-s5c11voeF8njt_GoREwh0palPMvP/view?usp=sharing)  
 
 ---
 
